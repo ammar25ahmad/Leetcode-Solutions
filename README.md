@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ammar25ahmad/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/ammar25ahmad/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/ammar25ahmad/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## String
