@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ammar25ahmad/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ammar25ahmad/Leetcode-Solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ammar25ahmad/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
